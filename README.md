@@ -1,16 +1,20 @@
-## Hi there 👋
+## Fatma Jlali
 
-<!--
-**jjlalli/jjlalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work on languages and machines for places the tools skip.
 
-Here are some ideas to get you started:
+**Tunisian Arabic (Derja) NLP** — [Tunisian-Derja-NLP-Resources](https://github.com/jjlalli/Tunisian-Derja-NLP-Resources):
+the first open, access-verified inventory of NLP resources for Tunisian Arabic —
+135 datasets, models and benchmarks, each one checked rather than listed.
+Contributions come in through issue forms; corrections are as welcome as additions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Water hardware** — [Anzar](https://github.com/jjlalli/Anzar): on-device acoustic
+leak detection for water pipes (ESP32 → STM32). Tunisia loses a large share of its
+drinking water to hidden leaks. [Saqi v2](https://github.com/jjlalli/Saqi-v2): an
+offline irrigation controller for smallholder farms, designed after interviewing
+the farmer I know best — my father.
+
+**Competitive programming** — two-time national team member, European Girls'
+Olympiad in Informatics (2025, 2026) · Silver medal, Pan-African Olympiad in
+Informatics 2026.
+
+Lycée Pilote de la Manouba, Tunisia · [LinkedIn](https://www.linkedin.com/in/fatma-jlali/)
