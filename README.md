@@ -17,4 +17,7 @@ the farmer I know best — my father.
 Olympiad in Informatics (2025, 2026) · Silver medal, Pan-African Olympiad in
 Informatics 2026.
 
-Lycée Pilote de la Manouba, Tunisia · [LinkedIn](https://www.linkedin.com/in/fatma-jlali/)
+Open to collaboration on low-resource NLP and water-tech — the fastest way to
+reach me is an issue on any repo, or [LinkedIn](https://www.linkedin.com/in/fatma-jlali/).
+
+Lycée Pilote Manouba, Tunisia · [LinkedIn](https://www.linkedin.com/in/fatma-jlali/)
