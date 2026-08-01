@@ -7,7 +7,7 @@ the first open, access-verified inventory of NLP resources for Tunisian Arabic �
 135 datasets, models and benchmarks, each one checked rather than listed.
 Contributions come in through issue forms; corrections are as welcome as additions.
 
-**Water hardware** — [Anzar](https://github.com/jjlalli/Anzar): on-device acoustic
+**Water systems** — [Anzar](https://github.com/jjlalli/Anzar): on-device acoustic
 leak detection for water pipes (ESP32 → STM32). Tunisia loses a large share of its
 drinking water to hidden leaks. [Saqi v2](https://github.com/jjlalli/Saqi-v2): an
 offline irrigation controller for smallholder farms, designed after interviewing
