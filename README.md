@@ -4,7 +4,7 @@ I work on languages and machines for places the tools skip.
 
 **Tunisian Arabic (Derja) NLP** — [Tunisian-Derja-NLP-Resources](https://github.com/jjlalli/Tunisian-Derja-NLP-Resources):
 the first open, access-verified inventory of NLP resources for Tunisian Arabic —
-135 datasets, models and benchmarks, each one checked rather than listed.
+146 entries — datasets, models, benchmarks, and the people behind them — each one access-checked rather than merely listed.
 Contributions come in through issue forms; corrections are as welcome as additions.
 
 **Water systems** — [Anzar](https://github.com/jjlalli/Anzar): on-device acoustic
@@ -18,6 +18,6 @@ Olympiad in Informatics (2025, 2026) · Silver medal, Pan-African Olympiad in
 Informatics 2026.
 
 Open to collaboration on low-resource NLP and water-tech — the fastest way to
-reach me is an issue on any repo, or [LinkedIn](https://www.linkedin.com/in/fatma-jlali/).
+reach me is an issue on any repo.
 
 Lycée Pilote Manouba, Tunisia · [LinkedIn](https://www.linkedin.com/in/fatma-jlali/)
