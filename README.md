@@ -4,7 +4,7 @@ I work on languages and machines for places the tools skip.
 
 **Tunisian Arabic (Derja) NLP** — [Tunisian-Derja-NLP-Resources](https://github.com/jjlalli/Tunisian-Derja-NLP-Resources):
 the first open, access-verified inventory of NLP resources for Tunisian Arabic —
-146 entries — datasets, models, benchmarks, and the people behind them — each one access-checked rather than merely listed.
+150 entries — datasets, models, benchmarks, and the people behind them — each one access-checked rather than merely listed.
 Contributions come in through issue forms; corrections are as welcome as additions.
 
 **Water systems** — [Anzar](https://github.com/jjlalli/Anzar): on-device acoustic
